@@ -1,0 +1,33 @@
+.home {
+  background-image: url(../pexels-photo-235985.jpg);
+  height: 100vh;
+  background-size: cover;
+}
+
+h1 {
+  font-size: 80px;
+  font-weight: 900;
+}
+
+p {
+  font-size: 35px;
+}
+
+.quote-btn {
+  border: solid 2px black;
+  padding: 20px 70px;
+  font-size: 20px;
+  color: black;
+  font-weight: bold;
+  background-color: transparent;
+  border-radius: 20px;
+}
+
+.the-quote {
+  font-size: 30px;
+  color: brown;
+  padding-top: 10px;
+  font-weight: bold;
+  margin-top: 15px;
+  text-align: center;
+}
